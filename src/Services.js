@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import "./Services.css";
 
 export default class Servies extends Component {
@@ -48,8 +47,8 @@ const icon = [
   },
   {
     icon: <i class="far fa-thumbs-up"></i>,
-    title: "Favorited",
-    description: " Millions Like Our products",
+    title: "Favorite",
+    description: " Millions Like Our Products",
   },
   {
     icon: <i class="fas fa-question-circle"></i>,
